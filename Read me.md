@@ -1,2 +1,2 @@
-This is my firt git repository
+This is my first Git Repository
 Author-Abhishek Bohra
